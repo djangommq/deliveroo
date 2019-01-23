@@ -1,0 +1,7 @@
+MONGODB_SERVER = '13.230.128.164'
+MONGODB_PORT = 27017
+MONGODB_DATABASE='deliveroo'
+USER = 'yunfutech'
+PASSWORD = 'sDdxPijskyujbcZw'
+
+DATE='20190116'
